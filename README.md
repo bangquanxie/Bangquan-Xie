@@ -4,7 +4,7 @@ I am currently an assistant professor and research fellow of advanced engineerin
 
 My research interests include Autonomous Driving and Robot, Embodied AI, Machine Vision, Multi-modal Fusion & State Estimation, Attention Mechanism & Transformers, AutoML & NAS, Large Model Semi-Supervised Learning, Model Compression and Distillation.
 
-
+I am recruiting PostDoc (more than 35W/year), Research Assistant (PhD or excellent master candidates), Visiting Scholar/Students to join my research laboratory. The laboratory will customize a off campus research guidance team for each student with a research topic. The guidance team members come from Apple, Google, Lucid Motors, CU-ICAR, ERAU, CMU, etc. Please email me with your CV and research plan for prospective collaborators. 
 
 # Visit and Intern Experience
 **Visiting Student**: I am publishing papers as a co-corresponding author with the visiting team.
