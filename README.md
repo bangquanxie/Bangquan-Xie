@@ -30,7 +30,7 @@ I am recruiting PostDoc (more than 35W/year), Research Assistant (PhD or excelle
 **Co- Author Journals Articles**
 - Ling, Yancheng; Ma, Zhenliang ; Xie, Bangquan; Zhang, Qi; Weng, Xiaoxiong. “SA-BiGCN: Bi-Stream Graph ConvolutionNetworks With Spatial Attentions for the Eye Contact Detection in the Wild”. IEEE Intelligent Transportation Systems Transactions. 2023 （IF: 9.551, 中科院1区TOP刊）
 
-**Book Chapters**
+**Book**
 - Bangquan Xie, Qiwu Qin. "Testing and Maintenance of Vehicle Electronic Control Systems" .2016. ISBN 978-7-5160-1595-7
 - Bangquan Xie. "Maintenance Work Log of Vehicle Electronic Control System". 2016. (school-based teaching materials)
 - Bangquan Xie. "Road Transport Safety Technology". 2014. (school-based teaching materials)
