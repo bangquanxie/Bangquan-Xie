@@ -1,6 +1,6 @@
 # Bangquan Xie
 
-I am currently an assistant professor and research fellow of advanced engineering at Great Bay University, China（助理教授、研究员（正高））.  I was a joint training Ph.D.of South China University of Technology, China, and Clemson University, USA. And I was a Postdoctoral researcher of Embry-Riddle Aeronautical University, USA. I participated in the "[Deep Orange](https://cuicardeeporange.com/)" project of CU-ICAR, which publicly releases a concept car or a proposed production vehicle every two years.
+I am currently an assistant professor and research fellow of advanced engineering college at Great Bay University, China（助理教授、研究员（正高））.  I was a joint training Ph.D. of South China University of Technology, China, and Clemson University, USA. And I was a Postdoctoral researcher of Embry-Riddle Aeronautical University, USA. I participated in the "[Deep Orange](https://cuicardeeporange.com/)" project of CU-ICAR, which publicly releases a concept car or a proposed production vehicle every two years.
 
 My research interests include Autonomous Driving and Robot, Embodied AI, Machine Vision, Multi-modal Fusion & State Estimation, Attention Mechanism & Transformers, AutoML & NAS, Large Model Semi-Supervised Learning, Model Compression and Distillation.
 
@@ -11,7 +11,7 @@ I am recruiting PostDoc (more than 35W/year), Research Assistant (PhD or excelle
 - Embry-Riddle Aeronautical University. USA.                                                                                            
 - University of Oklahoma. USA.                                                                               
 
-**Research Intern**: The following companies have research and development centers at Clemson University. The intern at BMW and Bosch is a part of the content of CU-ICAR "Deep Orange" project.	
+**Research Intern**: The following companies have research and development center at Clemson University. The intern at BMW and Bosch is a part of the content of CU-ICAR "Deep Orange" project.	
 - BMW Spartanburg factory, USA                                                                               
 - Bosch Charleston factory, USA                                                                                   
 - TIMKEN Greenville factory, USA.        
