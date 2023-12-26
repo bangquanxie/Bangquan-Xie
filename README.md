@@ -50,9 +50,16 @@ I am recruiting PostDoc (more than 35W/year), Research Assistant (PhD or excelle
 - FocusTR: Focusing on Valuable Feature by Multiple Transformers for Fusing Feature Pyramid on Object Detection, Kyoto, Japan. October 13, 2022. (Virtual)
 
 # Paper Review Services
-- 2019-Present     IEEE Transactions on Intelligent Transportation Systems
-- 2020-Present     IEEE Transactions on Neural Networks and Learning Systems                
-- 2020-Present     PATTERN RECOGNITION
-- 2021-Present     IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-- 2021-Present     IEEE TRANSACTIONS ON IMAGE PROCESSING
-- 2022-Present     IEEE International Conference on Robotics and Automation (ICRA)       
+- 2018-Present
+  IEEE Transactions on Intelligent Transportation Systems
+- 2019-Present
+  IEEE Transactions on Neural Networks and Learning Systems                
+- 2019-Present
+  PATTERN RECOGNITION
+- 2020-Present
+  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+- 2020-Present
+  IEEE TRANSACTIONS ON IMAGE PROCESSING
+- 2021-Present
+  IEEE International Conference on Robotics and Automation (ICRA)
+      
