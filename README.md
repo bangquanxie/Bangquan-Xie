@@ -5,7 +5,7 @@ I am currently an assistant professor and research fellow of advanced engineerin
 
 My research interests include Autonomous Driving and Robot, Embodied AI, Machine Vision, Multi-modal Fusion & State Estimation, Attention Mechanism & Transformers, AutoML & NAS, Large Model Semi-Supervised Learning, Model Compression and Distillation.
 
-I am recruiting [Ph.D.](https://www.gbu.edu.cn/detail/article/731) (The joint training supervisor is an European Academy of Sciences Fellow 欧洲科学院院士), [PostDoc](http://join.gbu.edu.cn/#/app/dwqdx/epxing_recruit/zpwz?pageId=7F6264E7CD444BE3B34823E31071EFDE&postListId=C806196294374AC58BF60FDC1BE4479F) (more than 50W/year, 博士后A、B岗), [Assistant Researcher and Research Assistant](https://mp.weixin.qq.com/s/2k_y3IRTaR1ctjoBeMkWEQ) (PhD or excellent master candidates，特任研究员分A、B岗，研究助理可以远程), Visiting Scholar/Students（Providing accommodation，可以远程）, to join my research laboratory HelpAI Lab. HelpAI Lab will customize a research guidance team, including off campus experts, for each student with a research topic. The off campus experts come from Apple, Google, Lucid Motors, BMW, CU-ICAR, ERAU, CMU, etc. Please email me with your CV and research plan for prospective collaborators. 
+I am recruiting [Ph.D.](https://www.gbu.edu.cn/detail/article/731) (The joint training supervisor is an European Academy of Sciences Fellow 欧洲科学院院士), [PostDoc](http://join.gbu.edu.cn/#/app/dwqdx/epxing_recruit/zpwz?pageId=7F6264E7CD444BE3B34823E31071EFDE&postListId=C806196294374AC58BF60FDC1BE4479F) (more than 50W/year, 与中科大联合培养博士后A、B岗), [Assistant Researcher and Research Assistant](https://mp.weixin.qq.com/s/2k_y3IRTaR1ctjoBeMkWEQ) (PhD or excellent master candidates，特任研究员分A、B岗，研究助理可以远程), Visiting Scholar/Students（Providing accommodation，可以远程）, to join my research laboratory HelpAI Lab. HelpAI Lab will customize a research guidance team, including off campus experts, for each student with a research topic. The off campus experts come from Apple, Google, Lucid Motors, BMW, CU-ICAR, ERAU, CMU, etc. Please email me with your CV and research plan for prospective collaborators. 
 
 # Visit and Intern Experience
 **Visiting Student**: I am publishing papers as a co-corresponding author with the visiting team.
@@ -65,7 +65,11 @@ I am recruiting [Ph.D.](https://www.gbu.edu.cn/detail/article/731) (The joint tr
   IEEE International Conference on Robotics and Automation (ICRA)
 
   # Latest News
-  
+  2024.7.15 欢迎本课题组的特任研究员李艳洲、博后卢泳康前来报到。
+  2024.6.20 本课题组与哈工深联合培养的杨晨、孙宇已上交入学材料。
+  2024.6.15 [湾湖学术活动周系列活动之先进工程科学论坛成功举办](https://mp.weixin.qq.com/s/t59j_eIw0ZWnj6Nk8paPTw)
+  2024.1.17 [参加第七届全球工学院院长工业论坛](https://www.sohu.com/a/752097230_121384220)
+  2024.1.15 [参观2023首届全国人工智能应用场景创新挑战赛总决赛暨全国人工智能应用场景创新峰会](https://mp.weixin.qq.com/s?__biz=MjM5ODIwNjEzNQ==&mid=2649883900&idx=1&sn=974d7ffede4bab8fc8aebc28a52cb91a&chksm=bec8eb2489bf6232f107c35c8854c33945daf89ae0db2c08e568d92c8e9c5201127cfaf266c3&scene=27)
 
 
   
