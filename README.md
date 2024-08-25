@@ -1,4 +1,4 @@
-# HelpAI (This website will no longer be updated. Please refer to the latest content in https://bangquanxie.github.io/HelpAI/ )
+#(This website will no longer be updated. Please refer to the latest content in [HelpAI](https://bangquanxie.github.io/HelpAI/))
 
 # **Bangquan Xie** (bangquanxie[at]gbu.edu.cn)                                                                                        <img src="谢帮权(2寸).png" width="130" />
 I am currently an assistant professor and research fellow of advanced engineering college at Great Bay University, China（助理教授、研究员（正高））. My laboratory is called HelpAI Lab, focusing on the Embodied AI for Autonomous Driving and Robot. I was a joint training Ph.D. of South China University of Technology, China, and Clemson University, USA. And I was a Postdoctoral researcher of Embry-Riddle Aeronautical University, USA. I participated in the "[Deep Orange](https://cuicardeeporange.com/)" project of CU-ICAR, which publicly releases a concept car or a proposed production vehicle every two years.
